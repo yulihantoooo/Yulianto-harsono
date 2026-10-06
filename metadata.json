@@ -1,0 +1,8 @@
+{
+  "name": "Remix Trigonometri X",
+  "description": "Multimedia Interaktif Pembelajaran Matematika SMA Kelas X Materi Trigonometri oleh Yulianto Harsono.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
